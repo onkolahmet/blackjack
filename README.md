@@ -9,6 +9,6 @@
 ### Functionality of The App
 - The game needs to have one player versus an automated dealer.
 - The player can stand or hit.
-- The player must be able to pick their betting amount.
+- The player is able to pick their betting amount.
 - The program will keep track of the player's total money.
 - The program alert the player of wins, losses, or busts, etc...
